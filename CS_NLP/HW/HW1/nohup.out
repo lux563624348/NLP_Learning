@@ -1,0 +1,661 @@
+[I 12:50:13.574 NotebookApp] Serving notebooks from local directory: /mnt/e/Dropbox/GWU_Experience/Physics_CS_Study/CS/CS_NLP/HW/HW1
+[I 12:50:13.574 NotebookApp] The Jupyter Notebook is running at:
+[I 12:50:13.575 NotebookApp] http://localhost:8888/?token=b2f20610c80478a2d225af42ea635ee3984e6f5fbf6097ed
+[I 12:50:13.575 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 12:50:13.577 NotebookApp] No web browser found: could not locate runnable browser.
+[C 12:50:13.577 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=b2f20610c80478a2d225af42ea635ee3984e6f5fbf6097ed
+[I 12:50:13.610 NotebookApp] 302 GET / (127.0.0.1) 1.35ms
+[I 12:50:19.248 NotebookApp] Creating new notebook in 
+[I 12:50:22.457 NotebookApp] Kernel started: 603c93f8-dbdc-4717-8b0f-a3c41b4699bb
+[I 12:52:22.326 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 12:54:10.475 NotebookApp] Starting buffering for 603c93f8-dbdc-4717-8b0f-a3c41b4699bb:607d5aeb46144854a8733cb07a115329
+[I 12:54:13.030 NotebookApp] 302 GET /notebooks/N_Gram_Language_Models.ipynb (127.0.0.1) 0.85ms
+[I 12:55:20.013 NotebookApp] 302 POST /login?next=%2Fnotebooks%2FN_Gram_Language_Models.ipynb (127.0.0.1) 1.41ms
+[I 12:55:33.358 NotebookApp] Shutting down on /api/shutdown request.
+[I 12:55:33.361 NotebookApp] Shutting down 1 kernel
+[I 12:55:33.664 NotebookApp] Kernel shutdown: 603c93f8-dbdc-4717-8b0f-a3c41b4699bb
+[I 12:56:09.211 NotebookApp] Serving notebooks from local directory: /mnt/e/Dropbox/GWU_Experience/Physics_CS_Study/CS/CS_NLP/HW/HW1
+[I 12:56:09.212 NotebookApp] The Jupyter Notebook is running at:
+[I 12:56:09.212 NotebookApp] http://localhost:8888/?token=5c8ebd285df47d8887f3997b539c84e0a27840286e0843e2
+[I 12:56:09.212 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 12:56:09.289 NotebookApp] No web browser found: could not locate runnable browser.
+[C 12:56:09.289 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/lx/.local/share/jupyter/runtime/nbserver-197-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=5c8ebd285df47d8887f3997b539c84e0a27840286e0843e2
+[I 12:56:23.736 NotebookApp] 302 POST /login?next=%2F (127.0.0.1) 1.89ms
+[I 12:56:23.740 NotebookApp] 302 GET / (127.0.0.1) 0.42ms
+[I 12:56:27.671 NotebookApp] Kernel started: b1e0919f-54a7-44d2-b01a-5b5e544b1f28
+[I 12:56:50.603 NotebookApp] Starting buffering for b1e0919f-54a7-44d2-b01a-5b5e544b1f28:2fb5c08c3b174a728b79ecfcdc47d0cd
+[I 12:58:51.077 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:00:40.262 NotebookApp] Starting buffering for b1e0919f-54a7-44d2-b01a-5b5e544b1f28:3e22a2291c7f41149e1595274bf3f494
+[I 13:00:45.860 NotebookApp] Kernel shutdown: b1e0919f-54a7-44d2-b01a-5b5e544b1f28
+[I 13:00:54.009 NotebookApp] Kernel started: 8293cd70-8fad-435a-b971-097471ddfde8
+[I 13:00:54.992 NotebookApp] Adapting to protocol v5.1 for kernel 8293cd70-8fad-435a-b971-097471ddfde8
+[I 13:01:22.711 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:01:23.314 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:01:24.227 NotebookApp] Starting buffering for 8293cd70-8fad-435a-b971-097471ddfde8:ffd7c94879a54fe68017575c4033be24
+[I 13:01:26.065 NotebookApp] Kernel shutdown: 8293cd70-8fad-435a-b971-097471ddfde8
+[I 13:01:27.354 NotebookApp] Kernel started: 98d3b007-6fda-47cf-b311-136d5cc310d2
+[I 13:01:28.167 NotebookApp] Adapting to protocol v5.1 for kernel 98d3b007-6fda-47cf-b311-136d5cc310d2
+[I 13:03:27.336 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:05:27.339 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:07:27.343 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:11:27.360 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:13:27.349 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:15:27.358 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:17:27.350 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:19:27.347 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:21:27.333 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:23:27.333 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:25:27.342 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:27:27.338 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:29:27.338 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:31:27.350 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:33:27.335 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:35:27.333 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:37:27.330 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:39:27.338 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:41:27.333 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:43:27.338 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:45:27.325 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:46:25.170 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:46:45.115 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:47:27.325 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 13:49:27.334 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 14:15:27.636 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 14:17:27.345 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 14:27:27.641 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 14:29:27.327 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 14:31:27.325 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 14:33:27.325 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 14:35:27.326 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 14:37:27.341 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 14:39:27.329 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 14:41:27.325 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 14:43:27.325 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 14:45:27.328 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 14:47:27.335 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 14:49:27.336 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 14:51:27.332 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 14:53:27.334 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 14:55:27.339 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 14:57:27.345 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 14:59:27.333 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:01:27.334 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:03:27.344 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:05:27.335 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:07:27.327 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:09:27.330 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:11:27.339 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:13:27.330 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:15:27.325 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:17:27.334 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:19:27.340 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:20:14.586 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:21:27.333 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:23:13.728 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:23:27.340 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:25:27.336 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:27:27.325 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:29:27.339 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:31:27.327 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:33:27.330 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:35:27.340 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:37:27.339 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:39:27.339 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:41:27.334 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:43:27.329 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:45:27.340 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:47:27.327 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:49:27.329 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:51:27.331 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:53:27.327 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:55:27.335 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:55:37.262 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:56:13.762 NotebookApp] Kernel interrupted: 98d3b007-6fda-47cf-b311-136d5cc310d2
+[I 15:57:27.326 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 15:59:27.341 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:01:27.331 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:03:27.341 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:05:27.331 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:07:27.342 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:09:27.338 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:11:27.332 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:13:27.331 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:15:27.332 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:23:27.644 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:25:27.339 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:27:27.343 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:29:27.328 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:31:27.333 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:33:27.325 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:35:27.330 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:37:27.326 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:39:27.341 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:41:27.339 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:43:27.331 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:45:27.328 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:47:27.339 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:49:27.340 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:51:27.329 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:55:27.327 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:57:27.335 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 16:59:27.342 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:01:27.333 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:03:27.332 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:05:27.325 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:05:44.961 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:07:27.330 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:07:55.510 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:07:56.509 NotebookApp] Starting buffering for 98d3b007-6fda-47cf-b311-136d5cc310d2:0de9e4f9fcc944e78ff32402edb62a45
+[I 17:08:00.446 NotebookApp] Kernel shutdown: 98d3b007-6fda-47cf-b311-136d5cc310d2
+[I 17:08:02.116 NotebookApp] Kernel started: 7291b319-e780-424c-ab38-95c4f7e282c1
+[I 17:08:03.279 NotebookApp] Adapting to protocol v5.1 for kernel 7291b319-e780-424c-ab38-95c4f7e282c1
+[I 17:10:02.103 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:12:02.106 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:14:02.103 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:16:02.100 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:18:02.101 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:20:02.099 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:22:02.100 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:24:02.104 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:26:02.103 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:30:02.095 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:34:02.102 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:36:02.111 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:36:56.481 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:38:02.098 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:40:02.115 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:42:02.104 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:42:42.161 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:42:44.394 NotebookApp] Starting buffering for 7291b319-e780-424c-ab38-95c4f7e282c1:d6bb8a28f32542fcbe478323bb2dbd90
+[I 17:42:46.361 NotebookApp] Kernel shutdown: 7291b319-e780-424c-ab38-95c4f7e282c1
+[I 17:42:47.812 NotebookApp] Kernel started: 36ced4fb-847f-41d5-96d0-5e2e3207242e
+[I 17:42:48.588 NotebookApp] Adapting to protocol v5.1 for kernel 36ced4fb-847f-41d5-96d0-5e2e3207242e
+[I 17:44:47.802 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:46:47.798 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:48:47.797 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:50:47.808 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:52:47.789 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:54:47.801 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:56:47.789 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 17:58:47.808 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:00:47.807 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:02:47.801 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:04:47.790 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:06:47.790 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:08:47.807 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:10:47.808 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:12:47.789 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:14:47.794 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:16:47.790 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:18:47.787 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:20:47.798 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:22:47.788 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:24:47.791 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:26:47.804 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:28:47.788 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:30:47.808 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:32:47.809 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:34:47.792 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:36:47.802 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:38:47.812 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:40:47.794 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:42:47.802 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:44:47.790 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:46:47.799 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:48:47.804 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:50:47.793 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:52:47.803 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:54:47.792 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:56:47.793 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 18:58:47.799 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 19:00:47.804 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 19:02:47.790 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 19:04:47.805 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 19:06:47.805 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 19:08:47.791 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 19:10:47.790 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 19:12:47.795 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 19:14:47.794 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 19:16:47.792 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 19:18:47.796 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 19:20:47.791 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 19:22:47.790 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 19:26:47.807 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 19:28:47.807 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 19:30:47.795 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 19:32:47.806 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 19:34:47.807 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 20:04:05.131 NotebookApp] Starting buffering for 36ced4fb-847f-41d5-96d0-5e2e3207242e:4947486db51e49d1b139ecf1f29a4d18
+[I 21:11:00.798 NotebookApp] Adapting to protocol v5.1 for kernel 36ced4fb-847f-41d5-96d0-5e2e3207242e
+[I 21:11:00.799 NotebookApp] Restoring connection for 36ced4fb-847f-41d5-96d0-5e2e3207242e:4947486db51e49d1b139ecf1f29a4d18
+[I 21:12:47.982 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 21:14:47.670 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 21:16:47.670 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 21:18:47.680 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 21:20:47.681 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 21:22:47.672 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 21:24:47.670 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 21:26:47.661 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 21:28:47.680 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 21:30:47.680 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 21:32:47.678 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 21:34:47.671 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 21:36:47.681 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 21:38:47.674 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 21:40:47.677 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 21:42:47.676 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 21:44:47.663 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 21:48:47.671 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 21:50:47.676 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 21:52:47.678 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 21:54:47.661 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 21:56:47.664 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 21:58:47.681 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:00:47.662 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:02:47.661 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:04:47.678 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:06:47.676 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:08:47.670 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:10:47.665 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:12:47.671 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:14:47.683 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:16:47.676 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:18:47.681 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:20:47.682 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:22:47.677 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:24:47.681 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:26:47.670 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:28:47.665 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:32:47.666 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:34:47.665 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:36:47.676 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:38:47.677 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:40:47.666 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:42:47.661 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:44:47.678 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:46:47.671 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:48:47.672 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:50:47.676 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:52:47.661 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:54:47.680 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:56:47.675 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 22:58:47.678 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:00:47.676 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:02:47.669 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:04:47.664 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:06:47.667 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:08:47.671 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:10:47.667 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:11:15.668 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:11:17.393 NotebookApp] Starting buffering for 36ced4fb-847f-41d5-96d0-5e2e3207242e:4947486db51e49d1b139ecf1f29a4d18
+[I 23:11:19.745 NotebookApp] Kernel shutdown: 36ced4fb-847f-41d5-96d0-5e2e3207242e
+[I 23:11:21.622 NotebookApp] Kernel started: 63b09b5f-046b-4ce0-b0dc-5d3647bc2e8a
+[I 23:11:26.155 NotebookApp] Adapting to protocol v5.1 for kernel 63b09b5f-046b-4ce0-b0dc-5d3647bc2e8a
+[I 23:13:21.611 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:15:21.613 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:17:21.620 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:19:21.614 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:21:21.614 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:23:21.616 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:25:21.619 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:27:21.612 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:29:21.603 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:31:21.653 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:33:21.611 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:35:21.619 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:37:21.611 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:39:21.612 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:41:21.622 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:43:21.615 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:47:21.624 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:49:21.608 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:51:21.604 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:53:21.620 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:53:31.318 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:53:32.103 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:53:32.839 NotebookApp] Starting buffering for 63b09b5f-046b-4ce0-b0dc-5d3647bc2e8a:8fafb2b61df54dd48e7234759ff2cae8
+[I 23:53:36.480 NotebookApp] Kernel shutdown: 63b09b5f-046b-4ce0-b0dc-5d3647bc2e8a
+[I 23:53:37.936 NotebookApp] Kernel started: 58419c7d-b2fe-4caa-b0fc-a64b310a7545
+[I 23:53:38.720 NotebookApp] Adapting to protocol v5.1 for kernel 58419c7d-b2fe-4caa-b0fc-a64b310a7545
+[I 23:55:37.923 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:55:46.279 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:55:47.275 NotebookApp] Starting buffering for 58419c7d-b2fe-4caa-b0fc-a64b310a7545:acc7538f4fe4413a8ba082d83e08d752
+[I 23:55:49.494 NotebookApp] Kernel shutdown: 58419c7d-b2fe-4caa-b0fc-a64b310a7545
+[I 23:55:50.975 NotebookApp] Kernel started: 925405bc-af26-4c4f-b029-8202307a1a50
+[I 23:55:51.750 NotebookApp] Adapting to protocol v5.1 for kernel 925405bc-af26-4c4f-b029-8202307a1a50
+[I 23:57:50.964 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 23:59:50.967 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 00:01:50.958 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 00:03:50.954 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 00:05:50.966 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 00:07:50.963 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 00:09:07.195 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 00:09:50.981 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 00:11:50.962 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 00:13:50.953 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 00:15:50.964 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 00:17:50.951 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 00:19:50.959 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 00:21:50.956 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 00:21:55.546 NotebookApp] Saving file at /N_Gram_Language_Models.ipynb
+[I 00:21:56.703 NotebookApp] Starting buffering for 925405bc-af26-4c4f-b029-8202307a1a50:9c5cdd2b3abd47298d4f35c01aa052e7
+[I 00:21:59.835 NotebookApp] Kernel shutdown: 925405bc-af26-4c4f-b029-8202307a1a50
+[W 00:22:01.120 NotebookApp] Notebook N_Gram_Language_Models.ipynb is not trusted
+[I 00:22:01.473 NotebookApp] Kernel started: fe55e7f8-14af-4845-b4ec-4cb5db4e0912
+[I 00:22:02.319 NotebookApp] Adapting to protocol v5.1 for kernel fe55e7f8-14af-4845-b4ec-4cb5db4e0912
+[I 00:22:16.197 NotebookApp] Kernel shutdown: fe55e7f8-14af-4845-b4ec-4cb5db4e0912
+[I 00:22:28.176 NotebookApp] Creating new notebook in 
+[I 00:22:29.002 NotebookApp] Kernel started: 32870151-381c-42a8-aacb-eb46d07b6414
+[I 00:22:29.851 NotebookApp] Adapting to protocol v5.1 for kernel 32870151-381c-42a8-aacb-eb46d07b6414
+[W 00:22:33.509 NotebookApp] 404 GET /notebooks/N_Gram_Language_Models.ipynb (127.0.0.1): No such file or directory: N_Gram_Language_Models.ipynb
+[W 00:22:33.548 NotebookApp] 404 GET /notebooks/N_Gram_Language_Models.ipynb (127.0.0.1) 40.67ms referer=http://localhost:8888/tree
+[W 00:22:33.549 NotebookApp] 404 GET /api/contents/N_Gram_Language_Models.ipynb?content=0&_=1568866920952 (127.0.0.1): No such file or directory: N_Gram_Language_Models.ipynb
+[W 00:22:33.550 NotebookApp] No such file or directory: N_Gram_Language_Models.ipynb
+[W 00:22:33.550 NotebookApp] 404 GET /api/contents/N_Gram_Language_Models.ipynb?content=0&_=1568866920952 (127.0.0.1) 1.54ms referer=http://localhost:8888/notebooks/N_Gram_Language_Models.ipynb
+[W 00:22:53.001 NotebookApp] Notebook N_Gram_Letter_Language_Models.ipynb is not trusted
+[I 00:22:53.389 NotebookApp] Kernel started: 4cdfd589-b6a4-4349-84d5-478304d095e7
+[I 00:22:54.223 NotebookApp] Adapting to protocol v5.1 for kernel 4cdfd589-b6a4-4349-84d5-478304d095e7
+[I 00:24:28.993 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 00:24:54.216 NotebookApp] Kernel shutdown: 4cdfd589-b6a4-4349-84d5-478304d095e7
+[I 00:26:28.980 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 00:28:29.003 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 00:29:28.436 NotebookApp] Saving file at /N_Gram_Letter_Language_Models.ipynb
+[I 00:30:28.975 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 00:32:28.978 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 00:34:29.967 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 00:36:28.984 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 00:38:28.981 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 00:40:28.971 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 00:42:28.983 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 00:44:28.978 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 00:46:28.971 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 00:48:28.980 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 00:50:28.983 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 00:52:28.985 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 00:54:28.995 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 00:56:28.975 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 00:58:28.987 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 01:00:28.986 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 01:02:28.970 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 01:04:28.973 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 01:06:28.969 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 01:06:53.974 NotebookApp] Saving file at /N_Gram_Letter_Language_Models.ipynb
+[I 01:08:28.987 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 01:10:28.979 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 01:12:28.972 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 01:14:28.970 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 01:16:28.975 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 01:18:28.970 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 01:20:28.972 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 01:22:28.978 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 01:24:28.971 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 01:26:28.970 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 01:28:28.972 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 01:30:28.971 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 01:32:28.972 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 01:34:28.985 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 01:36:28.972 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 01:38:02.224 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 01:38:03.826 NotebookApp] Starting buffering for 32870151-381c-42a8-aacb-eb46d07b6414:d00b9cf45a624f698d2e514154ad6875
+Traceback (most recent call last):
+  File "/home/lx/ENTER/bin/jupyter-notebook", line 7, in <module>
+    from notebook.notebookapp import main
+  File "/home/lx/ENTER/lib/python2.7/site-packages/notebook/notebookapp.py", line 40, in <module>
+    from jinja2 import Environment, FileSystemLoader
+  File "/home/lx/ENTER/lib/python2.7/site-packages/jinja2/__init__.py", line 33, in <module>
+    from jinja2.environment import Environment, Template
+  File "/home/lx/ENTER/lib/python2.7/site-packages/jinja2/environment.py", line 16, in <module>
+    from jinja2.defaults import BLOCK_START_STRING, \
+  File "/home/lx/ENTER/lib/python2.7/site-packages/jinja2/defaults.py", line 32, in <module>
+    from jinja2.tests import TESTS as DEFAULT_TESTS
+  File "/home/lx/ENTER/lib/python2.7/site-packages/jinja2/tests.py", line 16, in <module>
+    import decimal
+ImportError: No module named decimal
+[I 11:22:47.568 NotebookApp] Serving notebooks from local directory: /mnt/d/Dropbox/GWU_Experience/Physics_CS_Study/CS/CS_NLP/HW/HW1
+[I 11:22:47.568 NotebookApp] 0 active kernels 
+[I 11:22:47.569 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=f0bbcc3c99643c7de1eed5980e10e9a2c5341597255707fb
+[I 11:22:47.569 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 11:22:47.574 NotebookApp] No web browser found: could not locate runnable browser.
+[C 11:22:47.574 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=f0bbcc3c99643c7de1eed5980e10e9a2c5341597255707fb
+[W 11:23:50.375 NotebookApp] Notebook N_Gram_Word_Language_Models.ipynb is not trusted
+[W 11:23:50.407 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190919112247 (127.0.0.1) 7.69ms referer=http://localhost:8888/notebooks/N_Gram_Word_Language_Models.ipynb
+[I 11:23:54.500 NotebookApp] Kernel started: 423f8af0-ef3f-48a8-9187-f54c0bd20bb4
+[IPKernelApp] WARNING | File not found: 'import sys; sys.path.append("/home/Xiang/miniconda2/lib/python2.7/site-packages")'
+[I 11:24:01.109 NotebookApp] Adapting to protocol v5.1 for kernel 423f8af0-ef3f-48a8-9187-f54c0bd20bb4
+[I 11:25:51.271 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[W 11:25:51.272 NotebookApp] Saving untrusted notebook N_Gram_Word_Language_Models.ipynb
+[I 11:27:50.732 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[W 11:27:50.732 NotebookApp] Saving untrusted notebook N_Gram_Word_Language_Models.ipynb
+[I 11:29:50.739 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[W 11:29:50.740 NotebookApp] Saving untrusted notebook N_Gram_Word_Language_Models.ipynb
+[I 11:31:50.744 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[W 11:31:50.745 NotebookApp] Saving untrusted notebook N_Gram_Word_Language_Models.ipynb
+[I 11:33:50.742 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[W 11:33:50.743 NotebookApp] Saving untrusted notebook N_Gram_Word_Language_Models.ipynb
+[I 11:34:42.056 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[W 11:34:42.056 NotebookApp] Saving untrusted notebook N_Gram_Word_Language_Models.ipynb
+[I 11:34:43.098 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[W 11:34:43.100 NotebookApp] Saving untrusted notebook N_Gram_Word_Language_Models.ipynb
+[I 11:35:50.742 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[W 11:35:50.743 NotebookApp] Saving untrusted notebook N_Gram_Word_Language_Models.ipynb
+[I 11:37:50.739 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[W 11:37:50.741 NotebookApp] Saving untrusted notebook N_Gram_Word_Language_Models.ipynb
+[I 11:39:50.741 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[W 11:39:50.743 NotebookApp] Saving untrusted notebook N_Gram_Word_Language_Models.ipynb
+[I 11:41:50.745 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[W 11:41:50.746 NotebookApp] Saving untrusted notebook N_Gram_Word_Language_Models.ipynb
+[I 11:43:50.745 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[W 11:43:50.747 NotebookApp] Saving untrusted notebook N_Gram_Word_Language_Models.ipynb
+[I 11:45:50.760 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[W 11:45:50.761 NotebookApp] Saving untrusted notebook N_Gram_Word_Language_Models.ipynb
+[I 11:47:50.744 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[W 11:47:50.746 NotebookApp] Saving untrusted notebook N_Gram_Word_Language_Models.ipynb
+[I 11:49:50.745 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[W 11:49:50.746 NotebookApp] Saving untrusted notebook N_Gram_Word_Language_Models.ipynb
+[I 12:41:10.289 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[W 12:41:10.301 NotebookApp] Saving untrusted notebook N_Gram_Word_Language_Models.ipynb
+[I 12:41:11.870 NotebookApp] Adapting to protocol v5.1 for kernel 423f8af0-ef3f-48a8-9187-f54c0bd20bb4
+[I 12:43:50.740 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[W 12:43:50.741 NotebookApp] Saving untrusted notebook N_Gram_Word_Language_Models.ipynb
+[I 12:45:50.742 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[W 12:45:50.744 NotebookApp] Saving untrusted notebook N_Gram_Word_Language_Models.ipynb
+[I 12:47:50.731 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[W 12:47:50.733 NotebookApp] Saving untrusted notebook N_Gram_Word_Language_Models.ipynb
+[I 12:49:50.744 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[W 12:49:50.745 NotebookApp] Saving untrusted notebook N_Gram_Word_Language_Models.ipynb
+[I 12:51:50.738 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[W 12:51:50.740 NotebookApp] Saving untrusted notebook N_Gram_Word_Language_Models.ipynb
+[I 12:53:50.715 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 12:55:50.715 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 12:57:50.734 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 12:59:50.734 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:01:50.731 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:03:50.757 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:05:50.732 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:07:50.732 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:09:50.722 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:11:50.739 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:13:50.731 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:15:50.731 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:17:50.733 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:19:50.732 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:21:50.740 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:23:50.732 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:25:50.736 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:27:50.739 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:29:50.748 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:31:50.731 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:33:50.724 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:35:50.730 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:37:50.733 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:39:50.742 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:41:50.746 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:43:50.736 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:45:50.739 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:47:50.737 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:48:47.667 NotebookApp] Kernel interrupted: 423f8af0-ef3f-48a8-9187-f54c0bd20bb4
+[I 13:48:50.957 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:48:57.745 NotebookApp] Kernel shutdown: 423f8af0-ef3f-48a8-9187-f54c0bd20bb4
+[W 13:48:58.510 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190919112247 (127.0.0.1) 2.76ms referer=http://localhost:8888/notebooks/N_Gram_Word_Language_Models.ipynb
+[I 13:48:59.036 NotebookApp] Kernel started: 420ef9b7-8c8a-4e5d-9808-6665d3d34e14
+[IPKernelApp] WARNING | File not found: 'import sys; sys.path.append("/home/Xiang/miniconda2/lib/python2.7/site-packages")'
+[I 13:49:05.012 NotebookApp] Adapting to protocol v5.1 for kernel 420ef9b7-8c8a-4e5d-9808-6665d3d34e14
+[I 13:50:59.017 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:52:59.016 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:54:59.020 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:56:59.029 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:57:21.175 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 13:58:59.029 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 14:00:59.007 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 14:02:32.092 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 14:02:36.909 NotebookApp] Kernel shutdown: 420ef9b7-8c8a-4e5d-9808-6665d3d34e14
+[W 14:02:37.877 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190919112247 (127.0.0.1) 2.11ms referer=http://localhost:8888/notebooks/N_Gram_Word_Language_Models.ipynb
+[I 14:02:38.403 NotebookApp] Kernel started: 1fa3a508-2ead-439f-8eab-bf67f9bc0479
+[IPKernelApp] WARNING | File not found: 'import sys; sys.path.append("/home/Xiang/miniconda2/lib/python2.7/site-packages")'
+[I 14:02:39.739 NotebookApp] Adapting to protocol v5.1 for kernel 1fa3a508-2ead-439f-8eab-bf67f9bc0479
+[I 14:04:38.431 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 14:06:38.678 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 14:08:38.403 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 14:10:38.404 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 14:11:26.766 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 14:11:31.242 NotebookApp] Kernel shutdown: 1fa3a508-2ead-439f-8eab-bf67f9bc0479
+[W 14:11:32.168 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190919112247 (127.0.0.1) 2.46ms referer=http://localhost:8888/notebooks/N_Gram_Word_Language_Models.ipynb
+[I 14:11:32.739 NotebookApp] Kernel started: b6356fea-3f47-48c5-9449-ae8876dcb6df
+[IPKernelApp] WARNING | File not found: 'import sys; sys.path.append("/home/Xiang/miniconda2/lib/python2.7/site-packages")'
+[I 14:11:34.028 NotebookApp] Adapting to protocol v5.1 for kernel b6356fea-3f47-48c5-9449-ae8876dcb6df
+[I 14:13:32.728 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 14:14:36.269 NotebookApp] Saving file at /N_Gram_Letter_Language_Models.ipynb
+[I 14:15:32.737 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 14:35:33.061 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 14:37:32.729 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 14:39:32.729 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 14:41:32.734 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 14:43:32.736 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 14:45:32.729 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 14:47:32.739 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 14:49:33.241 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 14:51:32.739 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 14:53:32.732 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 14:55:32.741 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 14:57:32.753 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 14:59:32.733 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:00:35.074 NotebookApp] Kernel interrupted: b6356fea-3f47-48c5-9449-ae8876dcb6df
+[I 15:01:32.732 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:02:04.839 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:02:11.399 NotebookApp] Kernel shutdown: b6356fea-3f47-48c5-9449-ae8876dcb6df
+[W 15:02:12.687 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190919112247 (127.0.0.1) 1.59ms referer=http://localhost:8888/notebooks/N_Gram_Word_Language_Models.ipynb
+[I 15:02:13.303 NotebookApp] Kernel started: fa76ab2f-dd00-480e-81e0-778d5b2fe744
+[IPKernelApp] WARNING | File not found: 'import sys; sys.path.append("/home/Xiang/miniconda2/lib/python2.7/site-packages")'
+[I 15:02:14.641 NotebookApp] Adapting to protocol v5.1 for kernel fa76ab2f-dd00-480e-81e0-778d5b2fe744
+[I 15:02:57.294 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:04:13.283 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:06:13.293 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:08:13.292 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:10:13.295 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:12:13.295 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:12:39.708 NotebookApp] Kernel interrupted: fa76ab2f-dd00-480e-81e0-778d5b2fe744
+[I 15:14:13.298 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:16:13.305 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:18:13.276 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:18:48.727 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:20:13.302 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:22:13.298 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:24:13.302 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:28:13.598 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:30:13.302 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:36:13.311 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:36:42.992 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:37:55.623 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:39:55.278 NotebookApp] Kernel interrupted: fa76ab2f-dd00-480e-81e0-778d5b2fe744
+[I 15:40:09.059 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:42:13.303 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:44:13.307 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[W 15:45:31.189 NotebookApp] delete /Results_Good_Turing_Smoothing_Word_Bigram_Model.txt
+[I 15:46:13.303 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:54:13.305 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:55:07.207 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:56:13.296 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 15:58:13.300 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 16:00:13.303 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 16:02:13.296 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 16:04:13.294 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 16:06:13.301 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 16:08:13.295 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 16:08:23.613 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 16:08:27.813 NotebookApp] Kernel shutdown: fa76ab2f-dd00-480e-81e0-778d5b2fe744
+[W 16:08:28.659 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190919112247 (127.0.0.1) 4.29ms referer=http://localhost:8888/notebooks/N_Gram_Word_Language_Models.ipynb
+[I 16:08:29.203 NotebookApp] Kernel started: 3f707627-a149-4aba-989d-322f272a7b90
+[IPKernelApp] WARNING | File not found: 'import sys; sys.path.append("/home/Xiang/miniconda2/lib/python2.7/site-packages")'
+[I 16:08:30.516 NotebookApp] Adapting to protocol v5.1 for kernel 3f707627-a149-4aba-989d-322f272a7b90
+[I 16:10:29.206 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 16:12:29.205 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 16:24:29.221 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 16:26:29.199 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 16:28:29.203 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 16:30:29.205 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 16:32:29.199 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 16:45:35.872 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 16:45:42.351 NotebookApp] Kernel shutdown: 3f707627-a149-4aba-989d-322f272a7b90
+[W 16:45:43.487 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190919112247 (127.0.0.1) 1.89ms referer=http://localhost:8888/notebooks/N_Gram_Word_Language_Models.ipynb
+[I 16:45:44.158 NotebookApp] Kernel started: 4e5b1c3f-6150-4fd6-a88c-284e8e5a8447
+[IPKernelApp] WARNING | File not found: 'import sys; sys.path.append("/home/Xiang/miniconda2/lib/python2.7/site-packages")'
+[I 16:45:45.518 NotebookApp] Adapting to protocol v5.1 for kernel 4e5b1c3f-6150-4fd6-a88c-284e8e5a8447
+[I 16:47:44.178 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 16:49:44.176 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 16:51:44.165 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 16:53:44.176 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 16:59:44.172 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 17:01:44.168 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 17:03:44.240 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 17:05:44.162 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 17:15:44.478 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 17:17:44.168 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 17:19:44.163 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 17:21:44.164 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 17:23:44.162 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 17:51:44.480 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[W 17:52:26.859 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190919112247 (127.0.0.1) 2.06ms referer=http://localhost:8888/notebooks/N_Gram_Word_Language_Models.ipynb
+[I 17:52:27.840 NotebookApp] Adapting to protocol v5.1 for kernel 4e5b1c3f-6150-4fd6-a88c-284e8e5a8447
+[I 17:54:27.537 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 17:56:27.543 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 17:58:27.533 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 18:00:27.544 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 18:02:27.524 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 18:02:41.956 NotebookApp] Kernel interrupted: 4e5b1c3f-6150-4fd6-a88c-284e8e5a8447
+[I 18:04:27.528 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 18:06:27.540 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 18:08:27.541 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 18:10:28.239 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 18:12:27.539 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 18:14:27.536 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 18:16:27.540 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 18:20:27.522 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 18:22:28.245 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 18:28:27.559 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 18:30:27.540 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 18:32:28.238 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 18:34:27.552 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 18:36:27.545 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 18:38:27.996 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 18:42:27.564 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 18:44:27.535 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[W 18:54:01.283 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190919112247 (127.0.0.1) 1.75ms referer=http://localhost:8888/notebooks/N_Gram_Word_Language_Models.ipynb
+[I 18:54:02.312 NotebookApp] Adapting to protocol v5.1 for kernel 4e5b1c3f-6150-4fd6-a88c-284e8e5a8447
+[I 18:56:02.000 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 18:58:01.996 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 19:00:01.959 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 19:02:01.983 NotebookApp] Saving file at /N_Gram_Word_Language_Models.ipynb
+[I 19:07:00.680 NotebookApp] Kernel shutdown: 4e5b1c3f-6150-4fd6-a88c-284e8e5a8447
